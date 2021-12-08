@@ -16,15 +16,16 @@ With some initial plots, we can see the relationship between the various explana
 
 We see below the proportion of contestants from each state to have won the game in the past. Those states not shown have never had a contestant win the game before and are therefore proportioned at 0. It is shown that Rhode Island and Idaho both have a win proportion of .33. That is to say, of all the contestants from each of these states to have played the game, 33% have ended up winning.
 
-![State Prop.](State_Wins.png “Win Prop by State”)
+![State Prop.](/State_Wins.png)
+
 
 Below we have a boxplot representation of the age range of winners and all other contestants on Survivor, split between men and women. We can see that the age range of winners for both men and women is smaller than the range of all contestants, however the median appears to be close to the same amongst both winning and losing groups.
 
-![Age Ranges](stat426-fall2021/classproject-front-row/Age_Range.png “Age Ranges of Men and Women”)
+![Age Ranges](/Age_Range.png)
 
 Additionally, we see below a plot of the proportion of winners amongst the different personality types, again split between men and women. It is interesting to note that ENFJ, INFJ, ESTP, and ISTP all seem to have seen relatively high success in past games amongst men and women, with some variation.
 
-![Personality Prop.](stat426-fall2021/classproject-front-row/Personality_Gender_Rate.png “Win Prop by Personality and Gender”)
+![Personality Prop.](/Personality_Gender_Rate.png)
 
 From our EDA, we can see some of the relationships that we might find after fitting our model. Moving forward, we fit the data to a model and find the model that gives us the best accuracy. We then interpret our results and make suggestions.
 
