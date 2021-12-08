@@ -34,6 +34,7 @@ For this study, we tested our data on several different models and parameter typ
 
 An accuracy assessment allows us to evaluate the ability of the model to correctly predict the results within a dataset. It is the percentage of predicted values that match the actual value. Using this form of assessment, we found that three models were tied with the greatest accuracy on the testing subset. Our models for logistic regression, decision tree, and random forest methods each resulted in an accuracy of about 93.6%.
 
+The F1 score is used to measure the harmonic mean of the precision and recall of a model. Precision is the proportion of positive identifications that are correct. Recall is the proportion of actual positives that were correctly identified by the model.
 
 # Results
 
