@@ -16,7 +16,7 @@ With some initial plots, we can see the relationship between the various explana
 
 We see below the proportion of contestants from each state to have won the game in the past. Those states not shown have never had a contestant win the game before and are therefore proportioned at 0. It is shown that Rhode Island and Idaho both have a win proportion of .33. That is to say, of all the contestants from each of these states to have played the game, 33% have ended up winning.
 
-![State Prop.](/State_Wins.png)
+![State Prop.](/State_Wins1.png)
 
 
 Below we have a boxplot representation of the age range of winners and all other contestants on Survivor, split between men and women. We can see that the age range of winners for both men and women is smaller than the range of all contestants, however the median appears to be close to the same amongst both winning and losing groups.
