@@ -60,15 +60,13 @@ We also use the model to extract those factors that most influence the predictio
 
 Below, we fit the model to the new data, the current season of Survivor, to make a prediction on the winner of the current season.
 
-# Results
+# Results and Conclusion
 
 Having fit the model to the data from the current season, we return the probabilities associated with each contestant winning the competition. We then find the contestant with the highest probability of winning, and that is our predicted winner.
 
 Following this procedure, we find that our predicted winner of the competition is:
 Liana Wallace, with a prediction probability of 0.1125.
 Realistically, the prediction probability of Liana Wallace winning the competition is fairly low. In fact, at the point of writing this report, she has already been voted out of the competition. She did, however, make it further than most, and placed 7th overall.
-
-# Conclusion and Suggestions
 
 With such imbalanced and relatively small data, it is difficult to reliably predict the winner of any given season of Survivor. However, in this study, we have found certain factors that may influence the outcome.
 
